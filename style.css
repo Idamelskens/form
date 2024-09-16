@@ -1,0 +1,18 @@
+h1, p, #data, #button-area {
+    color: navy;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+label, button, form {
+    color: navy;
+}
+
+body {
+    background-color: rgb(163, 195, 255);
+}
+
+.resetbtn, .cancelbtn, .signupbtn {
+    background-color: rgb(71, 138, 197);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+} 
+
